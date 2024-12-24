@@ -9,6 +9,10 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
 <p align="left">I'm Hazmi from Lamongan, Indonesia.  <br><br>- 🔭 I’m currently a student.  <br>- 📚 I'm currently learning Node.js.  <br>- ⚡ In my free time, I explore investment and trading or enjoy exercising.</p>
 
 ###
