@@ -8,7 +8,7 @@
 
 <p align="center">
   I'm <b>Hazmi</b> from Lamongan, Indonesia. <br>
-  A passionate student exploring the world of <b>web development</b> and <b>cybersecurity</b>. 🚀
+  A passionate student exploring the world of <b>web development</b>. 🚀
 </p>
 
 ###
