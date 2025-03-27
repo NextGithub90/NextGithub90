@@ -18,7 +18,7 @@
 - 🔭 I’m currently a student.  
 - 📚 Learning **Node.js** to deepen my backend development skills.  
 - ⚡ In my free time, I explore **investment & trading**, or enjoy **exercising**.  
-- 🌎 Check out my **Portfolio**: [Click Here](https://nextgithub90.github.io/portofolio/)  
+- 🌎 Check out my **Portfolio**: <a href="https://nextgithub90.github.io/portofolio/" target="_blank">Click Here</a>  
 
 ###
 
@@ -42,13 +42,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hyper-code-69027a293/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="24" alt="LinkedIn logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="24" alt="LinkedIn logo" />
   </a>
   <a href="https://www.instagram.com/zamzzjk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="24" alt="Instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="24" alt="Instagram logo" />
   </a>
   <a href="mailto:aldiartuda@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="24" alt="Gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="24" alt="Gmail logo" />
   </a>
 </div>
 
