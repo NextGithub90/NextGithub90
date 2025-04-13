@@ -18,7 +18,7 @@
 - 🔭 I’m currently a student.  
 - 📚 Learning **Node.js** to deepen my backend development skills.  
 - ⚡ In my free time, I explore **investment & trading**, or enjoy **exercising**.  
-- 🌎 Check out my **Portfolio**: <a href="https://nextgithub90.github.io/portofolio/" target="_blank">Click Here</a>  
+- 🌎 Check out my **Portfolio**: <a href="https://nextgithub90.github.io/portofolio/" target="_blank">Click Here</a> (50%) 
 
 ###
 
